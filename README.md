@@ -73,10 +73,7 @@
 />
 
 <br/>
-<br/>
 
-
-<p>
 <p>
     
 ### Contato    
@@ -90,11 +87,11 @@
 
 ### Estatísticas    
 </p>
-<p>
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasAbbiati&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-</p>
+    <p>
+        <img 
+              align="left" 
+              alt="GitHub Stats" 
+              height="200" 
+              src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasAbbiati&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+          />
+    </p>
