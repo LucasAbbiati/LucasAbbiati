@@ -86,6 +86,13 @@
 
 </p>
 
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+
 <p>
     
 ### Contato    
@@ -95,8 +102,18 @@
 <a href = "mailto:lucasabbiati.p@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/lucas-abbiati-pereira-0a2a041b6/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
-<h2><b>Stats</b></h2>
+<p>
 
+### Estatísticas    
+</p>
+<p>
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasAbbiati&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+</p>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasAbbiati&layout=compact)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=LucasAbbiati&show_icons=true&theme=dark&locale=en" alt="LucasAbbiati" /></p>
