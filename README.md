@@ -77,14 +77,6 @@
 
 
 <p>
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasAbbiati&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
 
 </br>
 </br>
@@ -114,6 +106,3 @@
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasAbbiati&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasAbbiati&layout=compact)
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=LucasAbbiati&show_icons=true&theme=dark&locale=en" alt="LucasAbbiati" /></p>
