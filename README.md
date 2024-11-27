@@ -1,6 +1,8 @@
 <h1 align="center"><b>Olá 👋, meu nome é Lucas e este é meu perfil no Github</b></h1>
 
-- 🎓 Graduating in Computer Science at [UFSCar](https://www.ufscar.br/) - 8° semester
+- 🎓 Estudante de Ciência da Computação na [UFSCar](https://www.ufscar.br/) - 8° semestre
+- 👨‍💼 Fiz parte de Empresa Júnior por mais de 2 anos e possuo experiência na área de web e gestão
+- 📚 Atualmente estou estudando Engenharia de Dados
 
 
 ### 🤖 Linguagens e Tecnologias
