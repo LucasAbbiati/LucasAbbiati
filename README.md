@@ -1,8 +1,25 @@
 <h1 align="center"><b>Hey 👋, I'm Lucas Abbiati Pereira</b></h1>
 
-- 🎓 Graduating in Computer Science at [UFSCar](https://www.ufscar.br/) - 7/9 semesters, due to graduate mar/2025
-- 🤩 Passionate about DevOps
-- ⏰ Currently studying DevOPs
+- 🎓 Graduating in Computer Science at [UFSCar](https://www.ufscar.br/) - 8° semester
+
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=LucasAbbiati&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasAbbiati&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
 
 <h2 align="left"><b>Technologies and Tools</b></h2>
 
