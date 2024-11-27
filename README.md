@@ -1,4 +1,4 @@
-<h1 align="center"><b>Olá 👋, Meu nome é Lucas Abbiati Pereira, fico feliz em te ver por aqui</b></h1>
+<h1 align="center"><b>Olá 👋, meu nome é Lucas e este é meu perfil no Github</b></h1>
 
 - 🎓 Graduating in Computer Science at [UFSCar](https://www.ufscar.br/) - 8° semester
 
