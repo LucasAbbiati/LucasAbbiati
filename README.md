@@ -90,15 +90,6 @@
 ### Estatísticas    
 </p>
 
-<p>
-        <img 
-              align="left" 
-              alt="GitHub Stats" 
-              height="200" 
-              src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasAbbiati&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-          />
-</p>
-
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LucasAbbiati/LucasAbbiati/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LucasAbbiati/LucasAbbiati/output/github-contribution-grid-snake-dark.svg">
